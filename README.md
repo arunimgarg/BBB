@@ -12,5 +12,5 @@ BBB- = 0
 Out of 19 features, 18 are continuous and 1 categorical
 
 - Feature information 
-<img src="FeatureInformation.png"/>
+<img src="/FeatureInformation.png"/>
 
