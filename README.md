@@ -9,7 +9,7 @@ BBB+ = 1
 BBB- = 0
 
 - Feature characteristics (Inputs)
-Out of 19 features, 18 are continuous and 1 categorical
+Out of 19 features, 18 are continuous and 1 categorical(highlighted below)
 
 - Feature information 
 <img src="FeatureInformation.png">
