@@ -1,4 +1,4 @@
-One of the first things I did during my master's @ DataLab was look into the research for Brain-Blood Permeability. I made this repo during the first semester to keep track of the research I did for that topic. 
+One of the first things I did during my master's @ [DataLab](https://datalab.science/) was look into the research for Brain-Blood Permeability. I made this repo during the first semester to keep track of my research. 
 # BBB
 Brain-Blood Barrier permeability prediction
 
